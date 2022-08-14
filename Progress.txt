@@ -1,0 +1,5 @@
+july 19th : endianess functions xx
+            next use hash namespace and put everything inside. xx
+            use lamdas to return a function.
+            prime number check 
+            carmichael numbers - primality test functions.
