@@ -44,19 +44,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/sofiane/.local/lib/python3.8/site-packages/cmake/data/bin/cmake
+CMAKE_COMMAND = /usr/bin/cmake
 
 # The command to remove a file.
-RM = /home/sofiane/.local/lib/python3.8/site-packages/cmake/data/bin/cmake -E rm -f
+RM = /usr/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/sofiane/Desktop/projects/crypto_project
+CMAKE_SOURCE_DIR = /home/sofiane/Downloads/cryptoMoneyInCpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/sofiane/Desktop/projects/crypto_project/build
+CMAKE_BINARY_DIR = /home/sofiane/Downloads/cryptoMoneyInCpp/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/acrodictLib.dir/depend.make
@@ -77,7 +77,7 @@ acrodictLib_EXTERNAL_OBJECTS =
 
 libacrodictLib.a: CMakeFiles/acrodictLib.dir/build.make
 libacrodictLib.a: CMakeFiles/acrodictLib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sofiane/Desktop/projects/crypto_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX static library libacrodictLib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sofiane/Downloads/cryptoMoneyInCpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX static library libacrodictLib.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/acrodictLib.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/acrodictLib.dir/link.txt --verbose=$(VERBOSE)
 
@@ -90,6 +90,6 @@ CMakeFiles/acrodictLib.dir/clean:
 .PHONY : CMakeFiles/acrodictLib.dir/clean
 
 CMakeFiles/acrodictLib.dir/depend:
-	cd /home/sofiane/Desktop/projects/crypto_project/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sofiane/Desktop/projects/crypto_project /home/sofiane/Desktop/projects/crypto_project /home/sofiane/Desktop/projects/crypto_project/build /home/sofiane/Desktop/projects/crypto_project/build /home/sofiane/Desktop/projects/crypto_project/build/CMakeFiles/acrodictLib.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/sofiane/Downloads/cryptoMoneyInCpp/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/sofiane/Downloads/cryptoMoneyInCpp /home/sofiane/Downloads/cryptoMoneyInCpp /home/sofiane/Downloads/cryptoMoneyInCpp/build /home/sofiane/Downloads/cryptoMoneyInCpp/build /home/sofiane/Downloads/cryptoMoneyInCpp/build/CMakeFiles/acrodictLib.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/acrodictLib.dir/depend
 

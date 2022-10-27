@@ -63,7 +63,7 @@ struct EllipticCurve{
 namespace sha{
     template <typename T>
     T rotr(T x, int n, int size=32){
-        return (x >> n) | (x << size - n) & (2 << size - 1);
+        return (x >> n) | (x << (size - n)) & ((2 << size) - 1);
     }
 
     template <typename T>

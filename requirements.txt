@@ -1,0 +1,4 @@
+sudo apt install cmake
+sudo apt-get install libboost-all-dev
+sudo apt-get install clang
+sudo apt-get install libgtest-dev // sometimes this installs only the src and h files, you may need to build them yourself and link usign -l

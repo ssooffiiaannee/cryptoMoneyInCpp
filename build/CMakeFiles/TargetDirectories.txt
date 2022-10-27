@@ -1,4 +1,4 @@
-/home/sofiane/Desktop/projects/crypto_project/build/CMakeFiles/acrodictLib.dir
-/home/sofiane/Desktop/projects/crypto_project/build/CMakeFiles/prog.dir
-/home/sofiane/Desktop/projects/crypto_project/build/CMakeFiles/edit_cache.dir
-/home/sofiane/Desktop/projects/crypto_project/build/CMakeFiles/rebuild_cache.dir
+/home/sofiane/Downloads/cryptoMoneyInCpp/build/CMakeFiles/acrodictLib.dir
+/home/sofiane/Downloads/cryptoMoneyInCpp/build/CMakeFiles/prog.dir
+/home/sofiane/Downloads/cryptoMoneyInCpp/build/CMakeFiles/edit_cache.dir
+/home/sofiane/Downloads/cryptoMoneyInCpp/build/CMakeFiles/rebuild_cache.dir

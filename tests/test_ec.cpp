@@ -1,3 +1,4 @@
+// g++ test_ec.cpp -lgtest -o prog
 #include "../src/base_algorithms.h"
 #include <gtest/gtest.h>
 #include <tuple>
